@@ -17,9 +17,7 @@ Electronについて調べる際は以下のサイトがとても参考になり
 * [Awesome Electron](https://github.com/sindresorhus/awesome-electron) - [Sindre Sorhus](https://github.com/sindresorhus/)によって作成されたElectron関連のまとめす。
 * [atom-slack](http://atom-slack.herokuapp.com/) - Atom全般のことについて話合われています。`#electron`ルームもあります。
 
-Electronの前の名前はAtom-shellです。名前を変えただけなので、Electronについて検索する際は`Atom-shell`で検索したほうがQiitaなどでも多くの記事を見つけることができます。
-
-Qiita上のタグ一覧：
+Electronの前の名前はAtom-shellです。名前を変えただけなので、Electronについて検索する際は`Atom-shell`で検索したほうがQiitaなどでも多くの記事を見つけることができます。以下はQiita上のタグ一覧です。
 
 * [#atom-shell](http://qiita.com/tags/atom-shell)
 * [#electron](http://qiita.com/tags/electron)
