@@ -24,7 +24,7 @@ Qiita上のタグ一覧：
 * [#atom-shell](http://qiita.com/tags/atom-shell)
 * [#electron](http://qiita.com/tags/electron)
 
-**募集**：現在[`atom/electron.atom.io`](https://github.com/atom/electron)で`atom/electron/docs`内の日本語翻訳をしようと、[Translation in Japanese #20](https://github.com/atom/electron.atom.io/issues/20)で話合われています。興味ある方はぜひ参加してください。
+**募集**：現在、[`atom/electron.atom.io`](https://github.com/atom/electron)で`atom/electron/docs`内の日本語翻訳について[Translation in Japanese #20](https://github.com/atom/electron.atom.io/issues/20)で話し合っています。興味ある方はぜひ参加してください。
 
 ## 類似ツール
 
