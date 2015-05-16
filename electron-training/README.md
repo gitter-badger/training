@@ -11,8 +11,9 @@ Electronはクロスプラットフォームアプリケーションシェル。
 
 Electronについて調べる際は以下のサイトがとても参考になります:
 
-* [Electron公式ページ](http://electron.atom.io/) - Electronの公式ページになります。ここではチュートリアルやドキュメントを見ることができます。
-* [Discuss about Electron](https://discuss.atom.io/c/electron) - AtomのDiscussぺーじなります。Electronについて話合われています。
+* [Electron公式ページ](http://electron.atom.io/) - Electronの公式ページ。ここではチュートリアルやドキュメントを見ることができます。
+* [@electronjs](https://twitter.com/electronjs) - ElectronのTwitterアカウント
+* [Discuss about Electron](https://discuss.atom.io/c/electron) - AtomのDiscussページなります。Electronについて話合われています。
 * [Awesome Electron](https://github.com/sindresorhus/awesome-electron) - [Sindre Sorhus](https://github.com/sindresorhus/)によって作成されたElectron関連のまとめす。
 * [atom-slack](http://atom-slack.herokuapp.com/) - Atom全般のことについて話合われています。#electronルームもあります。
 
