@@ -38,10 +38,10 @@ Electronと同じように以下のソフトウェアを使うことで、クロ
 * [GitHub、JavaScriptでデスクトップアプリが作れるライブラリAtom Shellを、Electronに改称](http://codezine.jp/article/detail/8678) - 公式リリースの簡単な日本語訳のようなものです。
 * [ilyavorobiev/atom-docs](https://github.com/ilyavorobiev/atom-docs) - Atom-shellの構造について書かれたドキュメントです。
 
-## Todo
+## タスク
 
 * [ ] 各ソフトウェアを比較したものを作成する
 
-## License
+## ライセンス
 
 MIT © Sota Yamashita
