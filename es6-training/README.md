@@ -28,3 +28,7 @@ EC6について勉強するには、[lukehoban/es6features](https://github.com/l
 # 参照
 
 * [ECMAScript仕様書を読む](https://github.com/azu/azu/issues/47) - azuさんがECMAScriptの仕様書を読むためにはどうしたらいいいかをまとめているissue。多分自分用で作成されていると思うがとても参考になる。より深く学びたい人には最適。
+
+## ライセンス
+
+MIT © Sota Yamashita
