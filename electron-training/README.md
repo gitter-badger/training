@@ -3,7 +3,17 @@ Electron Training
 
 >Electron is the cross-platform application shell we originally built for the Atom editor to handle the Chromium/Node.js event loop integration and native APIs.
 
-Electronはクロスプラットフォームアプリケーションシェル。もともとはChromium/Node.jsのevent loop integrationやネイティブAPIをAtomエディタで使うためです。
+Electronはクロスプラットフォームアプリケーションシェル。もともとはChromium/Node.jsのevent loop integrationやネイティブAPIをAtomエディタで使うために作られました。
+
+* Electron Training
+ * Electronとは
+ * Electronの構造
+* リソース
+ * 情報を得る方法
+ * 類似ツール
+ * 参考サイト
+* タスク
+* ライセンス
 
 ## Electronの構造
 
