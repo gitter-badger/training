@@ -9,7 +9,8 @@ EC6について勉強するには、[lukehoban/es6features](https://github.com/l
 
 # 文法
 
-## Temlate Strings
+## Template Strings
+
 
 ## 参考サイト
 
