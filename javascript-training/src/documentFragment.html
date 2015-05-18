@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+</head>
+<body>
+
+<div id="parent"></div>
+
+<script>
+
+  var parent = document.getElementById("parent");
+
+
+  // for ( var i = 0; i < 100000; i++ ) {
+  //   var child = document.createElement("div");
+  //   child.innerHTML = "sample";
+  //
+  //   parent.appendChild(child);
+  // }
+
+  // DocumentFragmentのコンストラクタ
+  var fragment = document.createDocumentFragment();
+  for ( var i = 0; i < 100000; i++ ) {
+    var child = document.createElement("div");
+    child.innerHTML = "sample";
+    fragment.appendChild(child);
+  }
+
+  parent.appendChild(fragment);
+
+</script>
+</body>
+</html>
