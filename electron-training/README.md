@@ -1,4 +1,4 @@
 Electron Training
 =================
 
-**Deprecated this README, please see new link is [sotayamashita/electron-docs](https://github.com/sotayamashita/electron-docs)**
+This README is deprecated.  Please see the new docs found here: https://github.com/sotayamashita/electron-docs
