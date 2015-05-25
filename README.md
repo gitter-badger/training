@@ -13,9 +13,9 @@ Note: This repository is almost written in Japanese.
 
 ## 目次・優先度
 
-このレポジトリにはすでに多くのTrainingが存在していて他人のことながらやりたいことがばらばらになっていると思うかもしれません。しかし自分はフロントエンドとしてその周辺の周辺の技術の注力しています。
+このレポジトリにはすでに多くのTrainingが存在していて他人のことながらやりたいことがばらばらになっていると思うかもしれません。しかし自分はフロントエンドとしてその周辺の技術に注力しています。
 
-Kotolin-trainingやerlang-trainingなどはあくまでもSoftware Designに載っているあくまでも小さな記事だけで息抜きです。
+Kotolin-trainingやerlang-trainingなどはあくまでもSoftware Designに載っている小さな記事なのでほんの息抜きです。
 
 * Front end
  * [es6-training](es6-training)
