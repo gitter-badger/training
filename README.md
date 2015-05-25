@@ -18,13 +18,13 @@ Note: This repository is almost written in Japanese.
 Kotolin-trainingやerlang-trainingなどはあくまでもSoftware Designに載っているあくまでも小さな記事だけで息抜きです。
 
 * Front end
- * [es6-training](https://github.com/sotayamashita/training/tree/master/es6-training)
- * [javascript-training](https://github.com/sotayamashita/training/tree/master/javascript-training)
- * [reactive-programming-training](https://github.com/sotayamashita/training/tree/master/reactive-programming-training)
- * [electron-training](https://github.com/sotayamashita/training/tree/master/electron-training)
+ * [es6-training](es6-training)
+ * [javascript-training](javascript-training)
+ * [reactive-programming-training](reactive-programming-training)
+ * [electron-training](electron-training) - Depricated 
 * Other
- * [Kotolin-training](https://github.com/sotayamashita/training/tree/master/kotlin-training)
- * [Erlang-training](https://github.com/sotayamashita/training/tree/master/erlang-training)
+ * [Kotolin-training](kotlin-training)
+ * [Erlang-training](erlang-training)
 
 
 MIT © Sota Yamashita
