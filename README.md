@@ -21,7 +21,7 @@ Kotolin-trainingやerlang-trainingなどはあくまでもSoftware Designに載�
  * [es6-training](es6-training)
  * [javascript-training](javascript-training)
  * [reactive-programming-training](reactive-programming-training)
- * [electron-training](electron-training) - Depricated 
+ * [electron-training](electron-training) - Depricated
 * For a change
  * [Kotolin-training](kotlin-training)
  * [Erlang-training](erlang-training)
