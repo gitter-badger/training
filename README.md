@@ -18,7 +18,6 @@ Note: This repository is almost written in Japanese.
 Kotolin-trainingやerlang-trainingなどはあくまでもSoftware Designに載っている小さな記事なのでほんの息抜きです。
 
 * Front end
- * [es6-training](es6-training)
  * [javascript-training](javascript-training)
  * [reactive-programming-training](reactive-programming-training)
  * [electron-training](electron-training) - Depricated
