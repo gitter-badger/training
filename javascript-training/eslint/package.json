@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "acorn": "^2.0.1",
     "espree": "^2.0.2"
+  },
+  "devDependencies": {
+    "underscore": "^1.8.3"
   }
 }

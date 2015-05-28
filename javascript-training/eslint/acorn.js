@@ -1,9 +1,13 @@
 var acorn = require('acorn');
 var fs = require('fs');
 
-var target = './node_modules/espree/espree.js'
+var target = process.argv[2]
 
-fs.readFile(target, 'utf8', function(err, data){
-  if (err) throw err;
-  console.log(acorn.parse(data));
-});
+if (target) {
+
+  fs.readFile(target, 'utf8', function(err, data){
+    if (err) throw err;
+    console.log(acorn.parse(data));
+  });
+
+}

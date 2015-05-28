@@ -25,5 +25,8 @@ Kotolin-trainingやerlang-trainingなどはあくまでもSoftware Designに載�
  * [Kotolin-training](kotlin-training)
  * [Erlang-training](erlang-training)
 
+## 重要なこと
+
+
 
 MIT © Sota Yamashita

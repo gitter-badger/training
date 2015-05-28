@@ -1,20 +1,24 @@
-var espree = require("espree");
-var fs = require('fs');
+var espree = require("espree")
+var fs = require('fs')
 
-var target = './node_modules/espree/espree.js'
+var target = process.argv[2]
 
-fs.readFile(target, 'utf8', function(err, data){
-  if (err) throw err;
-  console.log(espree.parse(data, {
+if (target) {
 
-    // attach range information to each node
-    range: true,
+  fs.readFile(target, 'utf8', function(err, data){
+    if (err) throw err;
+    console.log(espree.parse(data, {
 
-    //　行数とカラム情報追加
-    loc: true,
+      // attach range information to each node
+      range: true,
 
-    // create a top-level comments array containing all comments
-    comments: true,
+      //　行数とカラム情報追加
+      loc: true,
 
-  }));
-});
+      // create a top-level comments array containing all comments
+      comments: true,
+
+    }));
+  });
+
+}
